@@ -1,0 +1,25 @@
+p {
+    color: rgb(226, 14, 14);
+}
+
+.class {
+    color: green;
+}
+
+#id {
+    color: blue;
+}
+ 
+.div {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+.div.someclass {
+    margin: auto;
+    width: 70%;
+    border: 3px solid blueviolet;
+    padding: 10px;
+}

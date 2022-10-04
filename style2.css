@@ -1,0 +1,37 @@
+* {
+    color: blue;
+}
+
+#id {
+    color: red;
+}
+
+.li3 {
+    color: green;
+}
+
+.li5.li55 {
+    color: gold;
+}
+
+ol>.li6{
+    color: olive;
+}
+
+.li6+.li7 {
+     color: black;
+}
+
+.li7~.li8 {
+    color: orangered;
+}
+
+[type="email"] {
+    background-color: blueviolet;
+}
+
+input[type="password"] {
+    background-color: blueviolet;
+}
+
+
